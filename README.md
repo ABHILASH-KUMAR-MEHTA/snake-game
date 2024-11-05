@@ -76,11 +76,7 @@ Note: Play online feature will not work as vercel does not support socket.io, pl
   - `routes`: Contains the routes of the application
 - `.env`: Environment variables file
 - `yarn.lock` and `package.json`: Manages the dependencies of the application
-- `vercel.json`: Manages the vercel deployment config.
 
 
-## Credits
-
-This application was developed by [Mohammed Khushab Alam](https://github.com/khushab).
 
 
